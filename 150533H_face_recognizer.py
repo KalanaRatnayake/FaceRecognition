@@ -196,7 +196,7 @@ if (choice=="Register"):
     Scan()
 elif (choice=="Login"):
     #Identify()
-    check()
-    #checkWithFalseNegtive()
+    #check()
+    checkWithFalseNegtive()
 else:
     print "chose correct option"
